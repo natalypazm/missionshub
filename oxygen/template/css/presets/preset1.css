@@ -36,15 +36,7 @@ a:hover, a:focus {
 .folio-overview a:hover {
   background-color:#dc141a;
 }
-.main-nav{
-	background: #ffffff;
-	color: #000000;
-	border-bottom: 1px solid #dc141a;
-}
 
-.nav{
-	color: black;
-}
 .twitter-left-control:hover, 
 .twitter-right-control:hover, 
 .btn-loadmore:hover  {

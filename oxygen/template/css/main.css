@@ -253,7 +253,7 @@ section {
 }
 
 .navbar-right li a {
-  color: #000000;
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
@@ -262,7 +262,7 @@ section {
 }
 
 .navbar-right li.active a {
-  background-color:#dc141a;
+  background-color:rgba(0,0,0,0.2);
 }
 
 .navbar-brand h1 {
@@ -847,12 +847,8 @@ section {
   padding-bottom: 0;
 }
 
-#google-map {
-  height: 350px;
-}
-
 #contact-us {
-  background-image:url(../images/contact-bg.jpg);
+  background-image:url(../images/features-bg.jpg);
   padding-bottom: 90px; 
 }
 
