@@ -361,7 +361,7 @@ section {
 **************************/
 
 #portfolio .container-fluid, 
-#portfolio .col-sm-3  {
+#portfolio .col-sm-4  {
   overflow: hidden;
   padding: 0;
 }
