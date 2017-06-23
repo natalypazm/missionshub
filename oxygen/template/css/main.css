@@ -257,8 +257,7 @@ section {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  padding-top: 45px;
-  padding-bottom: 53px;
+  padding:32px;
 }
 
 .navbar-right li.active a {
@@ -904,11 +903,12 @@ ul.address {
 
 #footer {
   color:#fff;
+  background: #333;
 }
 
 .footer-top {
   position: relative;
-  padding:30px 0
+  padding:15px 0
 }
 
 #footer .footer-bottom {
