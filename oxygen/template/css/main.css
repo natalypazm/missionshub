@@ -257,12 +257,12 @@ section {
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 600;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 45px;
+  padding-bottom: 53px;
 }
 
 .navbar-right li.active a {
-  background-color: rgba(0,0,0,.2);
+  background-color:#dc141a;
 }
 
 .navbar-brand h1 {
