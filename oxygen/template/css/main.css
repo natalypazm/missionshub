@@ -443,6 +443,7 @@ section {
 
 .folio-image img {
   width: 100%;
+  position:relative;
 }
 
 #portfolio .folio-item:hover .overlay {
@@ -483,6 +484,15 @@ section {
   left: 50%;
   color: #999;
   margin-left: -17px;
+}
+
+.folio-image .text-in{
+  z-index:1;
+  position:absolute;
+  color:#ffffff;
+  bottom:10px;
+  left:25%;
+  font-size:18px;
 }
 
 /*************************
