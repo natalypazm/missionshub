@@ -270,48 +270,6 @@ section {
 }
 
 /*************************
-********Service CSS*******
-**************************/
-
-.service-icon {
-  border-radius: 4px;
-  color: #fff;
-  display: inline-block;
-  font-size: 36px;
-  height: 90px;
-  line-height: 90px;
-  width: 90px;  
-  -webkit-transition: background-color 0.2s ease;
-  transition: background-color 0.2s ease;
-}
-
-.our-services .col-sm-4:hover .service-icon {
-  background-color: #333;
-}
-
-.our-services .col-sm-4 {
-  border-right:1px solid #f2f2f2;
-  border-bottom:1px solid #f2f2f2;
-  padding-bottom: 50px;
-}
-
-.our-services .col-sm-4:nth-child(4), 
-.our-services .col-sm-4:nth-child(5), 
-.our-services .col-sm-4:nth-child(6) {
-  border-bottom:0;
-  padding-top: 60px;
-}
-
-.our-services .col-sm-4:nth-child(3), 
-.our-services .col-sm-4:nth-child(6) {
-  border-right:0;
-}
-
-.service-info h3 {
-  margin-top: 35px;
-}
-
-/*************************
 ********About CSS*******
 **************************/
 #about-us {
@@ -333,29 +291,6 @@ section {
   margin-bottom: 30px;
 }
 
-.progress{
-  height: 20px;
-  background-color: #fff;
-  border-radius: 0;
-  box-shadow: none;
-  -webkit-box-shadow: none;
-  margin-bottom: 25px;
-}
-
-.progress-bar{
-  box-shadow: none;
-  -webkit-box-shadow: none;
-  text-align: right;
-  padding-right: 12px;
-  font-size: 12px;
-  font-weight: 600;
-}
-
-
-.progress .progress-bar.six-sec-ease-in-out {
-  -webkit-transition: width 2s ease-in-out;
-  transition:  width 2s ease-in-out;
-}
 
 /*************************
 ********portfolio CSS*****
@@ -852,41 +787,7 @@ section {
 **********Contact CSS*****
 **************************/
 
-#contact {
-  padding-top: 45px;
-  padding-bottom: 0;
-}
 
-#contact-us {
-  background-image:url(../images/features-bg.jpg);
-  padding-bottom: 90px; 
-}
-
-#contact-us .heading {
-  padding-top: 95px;
-}
-
-.form-control {
-  background-color: transparent;
-  border-color: rgba(255,255,255,.1);
-  height: 50px;
-  border-radius: 0;
-  box-shadow: none;
-}
-
-textarea.form-control {
-  min-height: 180px;
-  resize:none;
-}
-
-.form-group {
-  margin-bottom: 30px;
-}
-
-.contact-info {
-  padding-left:70px;
-  font-weight: 300;
-}
 
 ul.address {
   margin-top: 30px;
